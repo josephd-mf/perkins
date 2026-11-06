@@ -1,0 +1,13 @@
+.es-settings .es-criteria { max-width: 1000px; }
+.es-settings .es-criteria td { vertical-align: top; }
+.es-settings .es-col-enabled { width: 40px; text-align: center; }
+.es-settings .es-col-label { width: 240px; }
+.es-settings .es-col-label input { width: 100%; }
+.es-settings .es-col-desc textarea { width: 100%; }
+.es-settings .es-col-min { width: 90px; }
+.es-settings .es-col-min input { width: 70px; }
+.es-settings .es-col-remove { width: 80px; }
+
+.es-settings .es-brand { background: #fff; border: 1px solid #dcdcde; border-radius: 4px; padding: 12px 20px; margin: 16px 0 12px; display: inline-block; }
+.es-settings .es-brand img { display: block; width: 300px; height: auto; max-width: 100%; }
+.es-settings .es-footer { color: #646970; font-size: 12px; margin-top: 24px; }
